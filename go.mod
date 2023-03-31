@@ -1,4 +1,4 @@
-module github.com/dematron/go-tvscanner
+module github.com/kuuy/go-tvscanner
 
 go 1.15
 
