@@ -6,7 +6,7 @@ TradingView scanner api client
 package main
 
 import (
-	scanner "github.com/dematron/go-tvscanner"
+	scanner "github.com/kuuy/go-tvscanner"
 
 	"fmt"
 )
